@@ -1,0 +1,8 @@
+# Personal vault path and generated output
+vault.local.txt
+*.exe
+preview.png
+runtime-status.txt
+self-test.txt
+*.pdb
+*.log
